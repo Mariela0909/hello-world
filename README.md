@@ -1,4 +1,4 @@
 # hello-world
 My 1st repostory on GitHub on my own
 
-I love learning new languages
+I am getting strong day by day in my learnings about GitHub
